@@ -28,7 +28,7 @@
 ## `$ whoami`
 
 ```yaml
-name: Yessie Nur Fitriana
+name: Yesi Nur Fitriana
 role: Informatics Engineering Student
 interests:
   - Web Development
