@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yesi-fitriana-64823738b">
+  <a href="www.linkedin.com/in/yesi-nur-fitriana-64823738b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/yesinrftrn_">
